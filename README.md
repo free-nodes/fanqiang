@@ -76,14 +76,14 @@
 
 ### 软路由 插件
 
-| 插件                          | 适用平台 | 版本号                                     | 官方网址                                                     | 配置教程                                             | 更新日期                                                   |
-| ----------------------------- | -------- | ------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------------- |
-| **PassWall**                  | OpenWrt  | ![img](./assets/openwrt-passwall.svg  )    | [GitHub](https://github.com/xiaorouji/openwrt-passwall/release) | [配置教程](https://www.iyio.net/2024/06/201555.html) | ![img](./assets/openwrt-passwall-1779243844527-199.svg  )  |
-| **OpenClash**                 | OpenWrt  | ![img](./assets/OpenClash.svg  )           | [GitHub](https://github.com/vernesong/OpenClash)             | 配置教程                                             | ![img](./assets/OpenClash-1779243844527-200.svg  )         |
-| **PassWall 2**                | OpenWrt  | ![img](./assets/openwrt-passwall2.svg  )   | [GitHub](https://github.com/xiaorouji/openwrt-passwall2)     | 配置教程                                             | ![img](./assets/openwrt-passwall2-1779243844527-201.svg  ) |
-| **Nikki** (原名:MihomoTProxy) | OpenWrt  | ![img](./assets/OpenWrt-nikki.svg  )       | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki)    | 配置教程                                             | ![img](./assets/OpenWrt-nikki-1779243844528-202.svg  )     |
-| **Clash**                     | OpenWrt  | ![img](./assets/luci-app-clash.svg  )      | [GitHub](https://github.com/frainzy1477/luci-app-clash)      | 配置教程                                             | ![img](./assets/luci-app-clash-1779243844528-203.svg  )    |
-| **FancySS_arm**               | Merlin   | ![img](./assets/fancyss.svg  )             | [GitHub](https://github.com/hq450/fancyss)                   | 配置教程                                             | ![img](./assets/fancyss-1779243844528-204.svg  )           |
-| **Merlin Clash**              | Merlin   | ![img](./assets/official-404-C0C0C0.svg  ) | [官方文档](https://mcreadme.gitbook.io/mc)                   | 配置教程                                             | ![img](./assets/official-404-C0C0C0.svg  )                 |
+| 插件                          | 适用平台 | 版本号                                     | 官方网址                                                     | 配置教程                       | 更新日期                                                   |
+| ----------------------------- | -------- | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------ | ---------------------------------------------------------- |
+| **PassWall**                  | OpenWrt  | ![img](./assets/openwrt-passwall.svg  )    | [GitHub](https://github.com/xiaorouji/openwrt-passwall/release) | [配置教程](./docs/passwall.md) | ![img](./assets/openwrt-passwall-1779243844527-199.svg  )  |
+| **OpenClash**                 | OpenWrt  | ![img](./assets/OpenClash.svg  )           | [GitHub](https://github.com/vernesong/OpenClash)             | 配置教程                       | ![img](./assets/OpenClash-1779243844527-200.svg  )         |
+| **PassWall 2**                | OpenWrt  | ![img](./assets/openwrt-passwall2.svg  )   | [GitHub](https://github.com/xiaorouji/openwrt-passwall2)     | 配置教程                       | ![img](./assets/openwrt-passwall2-1779243844527-201.svg  ) |
+| **Nikki** (原名:MihomoTProxy) | OpenWrt  | ![img](./assets/OpenWrt-nikki.svg  )       | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki)    | 配置教程                       | ![img](./assets/OpenWrt-nikki-1779243844528-202.svg  )     |
+| **Clash**                     | OpenWrt  | ![img](./assets/luci-app-clash.svg  )      | [GitHub](https://github.com/frainzy1477/luci-app-clash)      | 配置教程                       | ![img](./assets/luci-app-clash-1779243844528-203.svg  )    |
+| **FancySS_arm**               | Merlin   | ![img](./assets/fancyss.svg  )             | [GitHub](https://github.com/hq450/fancyss)                   | 配置教程                       | ![img](./assets/fancyss-1779243844528-204.svg  )           |
+| **Merlin Clash**              | Merlin   | ![img](./assets/official-404-C0C0C0.svg  ) | [官方文档](https://mcreadme.gitbook.io/mc)                   | 配置教程                       | ![img](./assets/official-404-C0C0C0.svg  )                 |
 
 声明：本站与上述APP开发者无任何利益关联，仅作为快捷归纳总结，如在使用过程中发生任何疑问及因使用以上软件造成任何损害后果的，均由用户本人承担责任。
