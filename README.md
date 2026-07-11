@@ -87,3 +87,8 @@
 | **Merlin Clash**              | Merlin   | ![img](./assets/official-404-C0C0C0.svg  ) | [官方文档](https://mcreadme.gitbook.io/mc)                   | 配置教程                                                    | ![img](./assets/official-404-C0C0C0.svg  )                 |
 
 声明：本站与上述APP开发者无任何利益关联，仅作为快捷归纳总结，如在使用过程中发生任何疑问及因使用以上软件造成任何损害后果的，均由用户本人承担责任。
+
+#### 机场推荐：
+
+- 【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 免费观看netflix、disney+、primevideo、hbomax 九折优惠码：LxwSsaay
+- 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 150G/9元/月 解锁流媒体及ChatGPT等AI 九折优惠码：3UJuVnqS
