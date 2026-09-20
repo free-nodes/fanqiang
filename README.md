@@ -8,6 +8,11 @@
 
 为避免第三方存储下载的客户端被修改或植入病毒，所需要的客户端建议**官方**下载 ！
 
+### 机场推荐：
+
+- 【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 免费20g流量，免费观看netflix、disney+、primevideo、hbomax 九折优惠码：LxwSsaay
+- 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 150G/9元/月，解锁流媒体及ChatGPT等AI 九折优惠码：3UJuVnqS
+
 ### Windows 客户端
 
 | ICO                                  | 客户端              | 版本号(Latest)                         | 下载地址                                                     | 配置教程                                                     | 更新日期                                                 |
@@ -88,7 +93,3 @@
 
 声明：本站与上述APP开发者无任何利益关联，仅作为快捷归纳总结，如在使用过程中发生任何疑问及因使用以上软件造成任何损害后果的，均由用户本人承担责任。
 
-#### 机场推荐：
-
-- 【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 免费观看netflix、disney+、primevideo、hbomax 九折优惠码：LxwSsaay
-- 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 150G/9元/月 解锁流媒体及ChatGPT等AI 九折优惠码：3UJuVnqS
